@@ -1,7 +1,7 @@
 package com.example.demo.controller;
 
-import com.example.demo.contact.Students;
 import com.example.demo.service.StudentService;
+import com.example.models.contact.Students;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

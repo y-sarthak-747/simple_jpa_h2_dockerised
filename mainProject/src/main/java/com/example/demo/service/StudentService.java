@@ -1,10 +1,10 @@
 package com.example.demo.service;
 
-import com.example.demo.contact.Students;
-import com.example.demo.model.StudentModel;
 import com.example.demo.repo.StudentRepo;
+import com.example.models.model.StudentModel;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+import com.example.models.contact.Students;
 
 import java.util.List;
 import java.util.stream.Collectors;
